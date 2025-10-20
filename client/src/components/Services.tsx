@@ -51,7 +51,7 @@ export default function Services() {
     {
       icon: "fa-store",
       title: "Visit Our Storefront",
-      description: "Experience our full collection in person in Githunguri. See, smell, and select your perfect bouquet.",
+      description: "Experience our full collection in person in Nairobi. See, smell, and select your perfect bouquet.",
       gradient: "from-primary to-chart-3",
       action: "#contact",
       isLink: true
