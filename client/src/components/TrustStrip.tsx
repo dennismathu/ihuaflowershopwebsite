@@ -3,7 +3,7 @@ export default function TrustStrip() {
     { icon: "fa-truck", text: "Same-Day Delivery" },
     { icon: "fa-dove", text: "Funeral Flowers Available" },
     { icon: "fa-palette", text: "Custom Bouquets" },
-    { icon: "fa-map-marker-alt", text: "Local Githunguri Service" }
+    { icon: "fa-map-marker-alt", text: "Local Nairobi Service" }
   ];
 
   return (
