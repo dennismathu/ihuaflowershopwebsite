@@ -49,13 +49,13 @@ export default function Contact() {
                 <i className="fas fa-envelope text-primary"></i>
                 <div>
                   <a href="mailto:info@ihuaflowers.com" className="hover:text-primary transition-colors" data-testid="link-email">
-                    info@ihuaflowers.com
+                    ihuakenya@gmail.com
                   </a>
                 </div>
               </div>
               <div className="flex items-center gap-3">
                 <i className="fas fa-map-marker-alt text-primary"></i>
-                <div>Githunguri, Kiambu</div>
+                <div>Nairobi City and Githunguri, Kiambu</div>
               </div>
             </div>
           </div>
@@ -70,20 +70,6 @@ export default function Contact() {
                 data-testid="link-facebook"
               >
                 <i className="fab fa-facebook-f"></i>
-              </a>
-              <a 
-                href="#" 
-                className="w-10 h-10 rounded-full bg-primary/10 hover:bg-primary text-primary hover:text-white flex items-center justify-center transition-colors"
-                data-testid="link-instagram"
-              >
-                <i className="fab fa-instagram"></i>
-              </a>
-              <a 
-                href="#" 
-                className="w-10 h-10 rounded-full bg-primary/10 hover:bg-primary text-primary hover:text-white flex items-center justify-center transition-colors"
-                data-testid="link-twitter"
-              >
-                <i className="fab fa-twitter"></i>
               </a>
             </div>
             <div className="text-sm text-muted-foreground">
