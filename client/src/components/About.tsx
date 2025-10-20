@@ -12,7 +12,7 @@ export default function About() {
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                At Ihua Flowers Shop, we're a family-run business proudly serving Githunguri, Kiambu, Nairobi and environs. 
+                At Ihua Flowers Shop, we're a family-run business proudly serving Nairobi and environs. 
                 With years of expertise in floral design, we bring passion and artistry to every bouquet we create.
               </p>
               <p>
@@ -34,13 +34,13 @@ export default function About() {
             <div className="aspect-square rounded-lg overflow-hidden shadow-lg">
               <img 
                 src={coupleImage} 
-                alt="Family-run flower shop owners in Githunguri"
+                alt="Family-run flower shop"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
               <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-6 text-white">
                 <p className="text-xl font-semibold">Family-Run Business</p>
-                <p className="text-white/90 mt-1">Serving Githunguri, Kiambu, Nairobi and environs</p>
+                <p className="text-white/90 mt-1">Serving Nairobi and environs</p>
               </div>
             </div>
           </div>
