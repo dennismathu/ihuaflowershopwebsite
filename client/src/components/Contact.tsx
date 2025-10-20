@@ -65,7 +65,7 @@ export default function Contact() {
             <h4 className="text-lg font-semibold mb-4">Follow Us</h4>
             <div className="flex gap-4 mb-6">
               <a 
-                href="#" 
+                href="https://www.facebook.com/p/Ihua-KE-61572142093361" 
                 className="w-10 h-10 rounded-full bg-primary/10 hover:bg-primary text-primary hover:text-white flex items-center justify-center transition-colors"
                 data-testid="link-facebook"
               >
